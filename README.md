@@ -1,4 +1,4 @@
-<h1>👨‍💻📊🤓🔍📈📉📊📚</h1>
+<h1>👨‍💻📊🔍📈📉📊📚</h1>
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará um estudante da análise de dados 📊🔍, ansioso para aprender e compartilhar conhecimento sobre esta incrível área da tecnologia.
 
