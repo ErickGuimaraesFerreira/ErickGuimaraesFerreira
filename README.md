@@ -1,6 +1,6 @@
 <h1>👨‍💻📊🔍📈📉📊📚</h1>
 
-💻 Entusiasta de tecnologia, com foco em segurança ofensiva e defensiva.
+💻 Entusiasta de tecnologia, com foco em segurança defensiva.
 
 🎓 Pós-graduação em Cibersegurança em andamento | Conhecimentos práticos em testes de vulnerabilidade.
 
