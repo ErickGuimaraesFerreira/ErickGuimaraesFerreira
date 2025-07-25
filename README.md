@@ -7,4 +7,4 @@
 🕵️‍♂️ Interessado em pentests, análise de vulnerabilidades, engenharia reversa e automação com Python.
 
 📂 Compartilhando projetos, estudos e ferramentas de segurança.
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
