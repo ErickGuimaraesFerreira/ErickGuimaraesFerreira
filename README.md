@@ -4,14 +4,14 @@
 
 ## 📊 &nbsp;Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuimaraesFerreira&show_icons=true&theme=highcontrast)                                                                                      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=B,C)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=B,C)
 
 
 
