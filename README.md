@@ -1,10 +1,8 @@
-<h1>👨‍💻📊🔍📈📉📊📚</h1>
 
-💻 Entusiasta de tecnologia, com foco em segurança defensiva.
 
-🎓 Pós-graduação em Cibersegurança em andamento | Conhecimentos práticos em testes de vulnerabilidade.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuimaraesFerreira&show_icons=true&theme=highcontrast)
 
-🕵️‍♂️ Interessado em pentests, análise de vulnerabilidades, engenharia reversa e automação com Python.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGuimaraesFerreira)](https://github.com/ErickGuimaraesFerreira/github-readme-stats)
 
-📂 Compartilhando projetos, estudos e ferramentas de segurança.
-![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErickGuimaraesFerreira&repo=pentest)](https://github.com/ErickGuimaraesFerreira/pentest)
+
