@@ -4,7 +4,7 @@
 
 ## 📊 &nbsp;Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuimaraesFerreira&show_icons=true&theme=highcontrast) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickGuimaraesFerreira&show_icons=true&theme=highcontrast)                                                                                      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=B,C)
 
 
