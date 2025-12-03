@@ -5,8 +5,6 @@
 ## 📊 &nbsp;Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![Linkedin](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
