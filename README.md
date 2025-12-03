@@ -4,13 +4,26 @@
 
 ## 📊 &nbsp;Stats
 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=B,C)
+
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
+![Langchain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+ 
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/0dba1eb7-daaf-4a15-a791-7b74f9697727" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/041eb3db-117a-469e-8216-d11327b87e6b" />
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/f61131d4-d07f-431c-95e7-4410a006c59c" />
+
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=B,C) 
+
+
+
+
 
 
 
