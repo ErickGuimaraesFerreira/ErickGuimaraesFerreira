@@ -28,7 +28,7 @@
 ---
 
 ### 🤖 Inteligência Artificial
-*Plataformas e frameworks para desenvolvimento de agentes inteligentes e automação com LLMs*
+*Plataformas e frameworks que uso para desenvolvimento de agentes inteligentes e automação com LLMs*
 
 <p>
   <img src="https://cdn.simpleicons.org/anthropic/191919" width="48" height="48" alt="Claude"/>
