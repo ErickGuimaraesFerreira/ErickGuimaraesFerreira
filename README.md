@@ -1,13 +1,11 @@
 
-
 &nbsp;
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=CE09EC&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Erick+Guimar%C3%A3es" />
 </h1>
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErickGuimaraesFerreira&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -16,6 +14,32 @@
   <img src="https://komarev.com/ghpvc/?username=ErickGuimaraesFerreira&label=Profile%20views&color=ce09ec&style=flat" alt="Profile views" />
 </p>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Desenvolvimento & DevOps
+*Ferramentas e tecnologias que uso diariamente para construir soluções*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,vscode,github,postgresql&theme=dark" alt="Skills"/>
+</p>
+
+---
+
+### 🤖 Inteligência Artificial
+*Plataformas e frameworks para desenvolvimento de agentes inteligentes e automação com LLMs*
+
+<p>
+  <img src="https://cdn.simpleicons.org/anthropic/191919" width="48" height="48" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
+  <img src="https://cdn.simpleicons.org/huggingface/FDEE21" width="48" height="48" alt="HuggingFace"/>
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/>
+</p>
+
+</div>
 
 ## 👨‍💻 Sobre Mim
 - 🔭 Atualmente trabalhando em projetos com **Agentes de IA e Automação** e **Cibersegurança**
@@ -43,25 +67,6 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=ErickGuimaraesFerreira&theme=dracula&no-frame=true&column=7&margin-w=15&rank=SECRET,AA,B,B" alt="Trophies"/> 
 </p> 
 
-## 🛠️ Tech Stack
-
-### 💻 Linguagens & Desenvolvimento
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### 🤖 IA & Machine Learning
-![Huggingface](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![Langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-
-### 🔧 Ferramentas & IDEs
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ### 🖥️ Sistemas Operacionais
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -69,14 +74,6 @@ me.say_hi()
 
 ### 🔐 Segurança & Análise
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-
-## 🚀 Projetos Destacados
-
-<p align="center">
-  <a href="https://github.com/ErickGuimaraesFerreira/ia-multi-agents-crewai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickGuimaraesFerreira&repo=ia-multi-agents-crewai&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
