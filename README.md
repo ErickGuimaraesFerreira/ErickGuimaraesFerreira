@@ -73,8 +73,8 @@ me.say_hi()
 ## 🚀 Projetos Destacados
 
 <p align="center">
-  <a href="https://github.com/ErickGuimaraesFerreira/IA_Agent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickGuimaraesFerreira&repo=IA_Agent&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/ErickGuimaraesFerreira/ia-multi-agents-crewai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErickGuimaraesFerreira&repo=ia-multi-agents-crewai&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
