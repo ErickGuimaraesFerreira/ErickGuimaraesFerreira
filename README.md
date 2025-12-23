@@ -50,9 +50,9 @@ class ErickGuimaraes:
     def __init__(self):
         self.name = "Erick Guimarães Ferreira"
         self.location = "Brasil 🇧🇷"
-        self.role = "Python Developer | AI & Automation Specialist"
+        self.role = "Python Developer | AI & Automation Developer"
         self.languages = ["Python", "SQL", "Bash"]
-        self.interests = ["AI Agents", "LLMs", "Automation", "Cybersecurity"]
+        self.interests = ["AI Agents", "AI Engineer", "LLMs", "Automation", "Cybersecurity"]
     
     def say_hi(self):
         print("Thanks for dropping by!🚀")
