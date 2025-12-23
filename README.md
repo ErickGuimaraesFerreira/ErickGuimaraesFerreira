@@ -64,7 +64,7 @@ me.say_hi()
 <!-- 🎨 OPÇÃO 2: Dracula Theme -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickGuimaraesFerreira&theme=dracula&no-frame=true&column=7&margin-w=15&rank=SECRET,AA,B,B" alt="Trophies"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=ErickGuimaraesFerreira&theme=dracula&no-frame=true&column=7&margin-w=15&rank=SECRET,AA,B" alt="Trophies"/> 
 </p> 
 
 ### 🖥️ Sistemas Operacionais
