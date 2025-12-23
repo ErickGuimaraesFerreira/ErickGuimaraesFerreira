@@ -55,7 +55,7 @@ class ErickGuimaraes:
         self.interests = ["AI Agents", "LLMs", "Automation", "Cybersecurity"]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+        print("Thanks for dropping by!🚀")
 
 me = ErickGuimaraes()
 me.say_hi()
