@@ -108,8 +108,8 @@ me.say_hi()
 | ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) | **76.13%** |
 | ![AntiGravity](https://img.shields.io/badge/-AntiGravity-CE09EC?style=flat-square&logo=google&logoColor=white) | **23.87%** |
 | | |
-| ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | **85.53%** |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | **14.47%** |
+| ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) | **65.53%** |
+| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | **34.47%** |
 
 </td>
 </tr>
