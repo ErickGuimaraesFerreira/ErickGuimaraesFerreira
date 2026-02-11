@@ -31,11 +31,13 @@
 *Plataformas e frameworks que uso para desenvolvimento de agentes inteligentes e automação com LLMs*
 
 <p>
-  <img src="https://cdn.simpleicons.org/anthropic/191919" width="48" height="48" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="48" height="48" alt="Claude"/>
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini"/>
   <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/crewai/FF5A50" width="48" height="48" alt="CrewAI"/>
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain"/>
   <img src="https://cdn.simpleicons.org/huggingface/FDEE21" width="48" height="48" alt="HuggingFace"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="48" height="48" alt="FastAPI"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="48" height="48" alt="Swagger"/>
 </p>
 
