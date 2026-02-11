@@ -22,7 +22,7 @@
 *Ferramentas e tecnologias que uso diariamente para construir soluções*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,vscode,github,postgresql&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,kali,redis,vscode,fastapi,github,postgresql&theme=dark" alt="Skills"/>
 </p>
 
 ---
