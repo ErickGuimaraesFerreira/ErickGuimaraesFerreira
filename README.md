@@ -22,7 +22,7 @@
 *Ferramentas e tecnologias que uso diariamente para construir soluções*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,kali,vscode,fastapi,github,postgresql,supabase,langchain&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,kali,vscode,fastapi,postgresql,supabase,langchain&theme=dark" alt="Skills"/>
 </p>
 
 <p>
@@ -115,7 +115,7 @@ Other    █░░░░░░░░░░░░░░░░░░░░   4.51%
 </td>
 <td width="45%" align="left">
 
-### 🔥 Editores & Sistemas
+### Coders
 
 ```text
 VS Code      ███████████████░░░░░  76.13%
