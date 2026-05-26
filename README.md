@@ -65,8 +65,7 @@ class ErickGuimaraes:
         self.languages = ["Python", "SQL", "Bash"]
         self.interests = ["AI Agents", "AI Engineer", "LLMs", "Automation", "Cybersecurity"]
     
-    def say_hi(self):
-        print("Thanks for dropping by! 🚀")
+
 
 me = ErickGuimaraes()
 me.say_hi()
@@ -118,11 +117,11 @@ Other    █░░░░░░░░░░░░░░░░░░░░   4.51%
 ### Coders
 
 ```text
-VS Code      ███████████████░░░░░  76.13%
-AntiGravity  █████░░░░░░░░░░░░░░░  23.87%
+VS Code      █████░░░░░░░░░░░░░░░ 23.13%
+AntiGravity  ███████████████░░░░░ 76.87%
 
-Windows  █████████████░░░░░░░░  65.53%
-Linux    ███████░░░░░░░░░░░░░░  34.47%
+Windows  █████████████░░░░░░░░  55.53%
+Linux    ████████████░░░░░░░░░  44.47%
 ```
 
 </td>
